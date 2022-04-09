@@ -9,17 +9,17 @@
 # Hi there 🏝
 
 <p align='center'>
-   <a href="https://linkedin.com/in/Amir-Shamsi">
+   <a href="https://www.linkedin.com/in/ahmed-elgammudi/">
       <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg"  />
    </a>
-   <a href="https://instagram.com/astro_emir">
-      <img align="center" src="https://img.shields.io/badge/Instagram-%D14836.svg"  />
+   <a href="https://twitter.com/ElgammudiAhmed">
+      <img align="center" src="https://img.shields.io/badge/Twitter-%230077B5.svg"  />
    </a>
-   <a href="mailto:AmirShamsi.github@gmail.com">
+   <a href="mailto:ahmedbaset092@gmail.com">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836"  />
    </a>
-   <a href="https://gitlab.com/Amir-Shamsi">
-      <img align="center" src="https://img.shields.io/badge/Gitlab-%230077B5.svg"  />
+   <a href="https://www.youtube.com/channel/UCr6HRBf42rFeFVGHRFan6Mw">
+      <img align="center" src="https://img.shields.io/badge/youtube-D14836.svg"  />
    </a>
 </p>
 
@@ -56,5 +56,4 @@
 <a href="#">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=amir-shamsi&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Amir's GitHub graph" />
    </a>
-
 
