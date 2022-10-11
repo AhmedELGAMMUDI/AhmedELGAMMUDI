@@ -44,7 +44,5 @@
 
 <hr size="" width="" color=""></hr>
 
-<a href="#">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AhmedELGAMMUDI&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Amir's GitHub graph" />
-   </a>
+
 
